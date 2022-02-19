@@ -1,3 +1,11 @@
+/*
+   Lab 2. SQL Queries
+   On the relational structure created for the first lab, write SQL statements that:
+   insert data – for at least 4 tables; at least one statement should violate referential integrity constraints;
+   update data – for at least 3 tables;
+   delete data – for at least 2 tables.
+   In the UPDATE / DELETE statements, use at least once: {AND, OR, NOT},  {<,<=,=,>,>=,<> }, IS [NOT] NULL, IN, BETWEEN, LIKE.
+*/
 
 /***UPDATE DATA, DELETE DATA***/
 
